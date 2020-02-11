@@ -1,0 +1,12 @@
+{
+  "name": "GraphQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cristinarojas/GraphQL.git",
+  "author": "Cristina <cristina.rojas.zamora@ruggable.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.10.0",
+    "graphql": "^14.6.0"
+  }
+}
